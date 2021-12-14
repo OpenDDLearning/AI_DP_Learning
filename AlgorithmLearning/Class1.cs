@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AlgorithmLearning
+namespace Algorithm
 {
     public class ArrayList
     {

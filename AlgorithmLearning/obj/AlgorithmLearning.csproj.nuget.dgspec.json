@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning\\AlgorithmLearning\\AlgorithmLearning.csproj": {}
+    "E:\\Learning\\GithubLearning\\AI_DP_Learning\\AlgorithmLearning\\AlgorithmLearning.csproj": {}
   },
   "projects": {
-    "E:\\Learning\\AlgorithmLearning\\AlgorithmLearning.csproj": {
+    "E:\\Learning\\GithubLearning\\AI_DP_Learning\\AlgorithmLearning\\AlgorithmLearning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning\\AlgorithmLearning\\AlgorithmLearning.csproj",
+        "projectUniqueName": "E:\\Learning\\GithubLearning\\AI_DP_Learning\\AlgorithmLearning\\AlgorithmLearning.csproj",
         "projectName": "AlgorithmLearning",
-        "projectPath": "E:\\Learning\\AlgorithmLearning\\AlgorithmLearning.csproj",
+        "projectPath": "E:\\Learning\\GithubLearning\\AI_DP_Learning\\AlgorithmLearning\\AlgorithmLearning.csproj",
         "packagesPath": "C:\\Users\\hejihua\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning\\AlgorithmLearning\\obj\\",
+        "outputPath": "E:\\Learning\\GithubLearning\\AI_DP_Learning\\AlgorithmLearning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
