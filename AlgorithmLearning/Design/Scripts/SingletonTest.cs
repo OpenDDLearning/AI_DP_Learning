@@ -5,7 +5,6 @@ namespace Design
     {
         public void Test1()
         {
-            
         }
     }
 }

@@ -1,0 +1,11 @@
+E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.AssemblyInfoInputs.cache
+E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.AssemblyInfo.cs
+E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.csproj.CoreCompileInputs.cache
+E:\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\Learning.deps.json
+E:\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\Learning.dll
+E:\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\ref\Learning.dll
+E:\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\Learning.pdb
+E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.dll
+E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\ref\Learning.dll
+E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.pdb

@@ -13,22 +13,7 @@ namespace Design
      public class Singleton
     {
         private static Singleton instance = new Singleton();
-        public static Singleton I
-        {
-            get
-            {
-                return instance;
-            }
-        }
-
-        private Singleton()
-        {
-            
-        }
-
-        public void Print()
-        {
-            
-        }
+        public static Singleton I { get { return instance; } }
+        private Singleton(){   }
     }
 }
