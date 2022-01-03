@@ -16,4 +16,67 @@ namespace Design
         public static Singleton I { get { return instance; } }
         private Singleton(){   }
     }
+
+    //懒汉式
+    public class Singleton2
+    {
+        private Singleton2() { }
+        private static Singleton2 instance;
+        public static Singleton2 I
+        {
+            get 
+            {
+                if (instance == null)
+                {
+                    instance = new Singleton2();
+                }
+                return instance;
+            }
+        }
+    }
+
+    public class Singleton3
+    {
+        private Singleton3() { }
+        private static Object lockObj = new object();
+        private static Singleton3 instance;
+        public static Singleton3 I
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    lock (lockObj)
+                    {
+                        if (instance == null)
+                        {
+                            instance = new Singleton3();
+                        }
+                    }
+                }
+                return instance;
+            }
+        }
+    }
+
+    public class Singleton4<T> where T : new()
+    {
+        protected Singleton4()  { }
+        private static T instance;
+        public static T I
+        {
+            get
+            {
+                if (instance == null)
+                {
+
+                    if (instance == null)
+                    {
+                        instance = new T();
+                    }
+                }
+                return instance;
+            }
+        }
+    }
 }

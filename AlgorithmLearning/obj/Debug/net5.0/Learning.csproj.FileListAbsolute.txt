@@ -9,3 +9,15 @@ E:\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\Learning.pdb
 E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.dll
 E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\ref\Learning.dll
 E:\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.pdb
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\Learning.deps.json
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\Learning.dll
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\ref\Learning.dll
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\bin\Debug\net5.0\Learning.pdb
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.AssemblyInfoInputs.cache
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.AssemblyInfo.cs
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.csproj.CoreCompileInputs.cache
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.dll
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\ref\Learning.dll
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.pdb
+D:\Work\Fork\Download\Learning\AI_DP_Learning\AlgorithmLearning\obj\Debug\net5.0\Learning.csproj.AssemblyReference.cache

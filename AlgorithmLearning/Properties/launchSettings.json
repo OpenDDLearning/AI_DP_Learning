@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Learning": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
